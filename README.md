@@ -24,13 +24,15 @@ A Python-based secure access control system simulating IoT authentication with s
 
 ## 📂 Project Structure
 
+```
 Secure-IoT-access-system/
 │
-├── auth.py        # Handles authentication
-├── logger.py      # Handles logging system
-├── main.py        # Main system controller
-├── logs/          # Stores log files
-└── README.md
+├── auth.py        # Handles authentication  
+├── logger.py      # Handles logging system  
+├── main.py        # Main system controller  
+├── logs/          # Stores log files  
+└── README.md  
+```
 
 ---
 
@@ -39,10 +41,16 @@ Secure-IoT-access-system/
 1. Open terminal
 
 2. Run:
-   python main.py
+
+```
+python main.py
+```
 
 3. Enter password:
-   secure123
+
+```
+secure123
+```
 
 ---
 
