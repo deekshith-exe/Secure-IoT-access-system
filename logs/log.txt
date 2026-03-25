@@ -1,1 +1,5 @@
 [2026-03-26 01:09:30] Successful login
+[2026-03-26 01:17:12] Failed attempt 1
+[2026-03-26 01:17:15] Failed attempt 2
+[2026-03-26 01:17:20] User authenticated successfully
+[2026-03-26 01:17:20] Successful login
